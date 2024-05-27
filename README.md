@@ -16,6 +16,6 @@ kubectl create secret docker-registry devopsmelacr132827a7-auth --docker-server=
 kubectl create secret tls ingress-secret --key mykey.key --cert STAR_singhritesh85_com.crt -n demo
 ```
 <br><br/>
-Create three service connection as shown in the screenshot below
+Create three service connections as shown in the screenshot below
 <br><br/>
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/631cf1dd-d06e-4128-a836-a95a5d157581)
