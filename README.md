@@ -25,3 +25,6 @@ Create three service connections as shown in the screenshot below
 **To Send Notification on Group Email ID go project Settings or Organisation Settings (For Global Notification) then got to Notifications and New Subscription and create a new Subscription with custom Email ID**
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/507bd24f-197e-4c89-a405-ea56da846c28)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/23477dd6-205b-469b-96a5-94f1951b1f68)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/f05a4102-ce5c-4fd9-bd3b-0c93c819e68e)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/9166cd31-17bd-4c8a-8708-5a9dfcc0a5a0)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/674e32b9-2280-4296-9550-b83fcca969a7)
