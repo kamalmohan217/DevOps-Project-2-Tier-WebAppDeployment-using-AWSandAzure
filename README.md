@@ -37,6 +37,17 @@ Install maven
 Install Docker
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/48b55f93-a0f4-4f37-81e4-0e0e58582458)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/1b266eac-f173-4e0c-b07b-72c3b4c28d79)
+<br><br/>
+Install self hosted agent pool (You can create self hosted agent pool either at Organisation level or at project level)
+<br><br/>
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/d72dc8be-82a3-47b9-93f6-e7be4e7fbdc7)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/c76d1a11-d7b6-4dd8-be14-9ce4fc8fe367)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/045054dc-6e72-4eb3-a395-feef2dd2f321)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3789adb8-db12-4c82-9812-07d29e1ef11f)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3707afa6-0844-4c9e-a24c-f6293dec9d15)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/4f21b984-5f5a-4a56-8745-45f79190d590)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/77df105d-6f86-455e-a24b-5edb1e800431)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/b2fa72f1-b9ef-478a-ad2c-e43df2748050)
 
 <br><br/>
 Create three service connections as shown in the screenshot below
