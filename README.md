@@ -1,6 +1,6 @@
 # DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure
 
-![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/d2d03d95-bcd7-4b72-bcc8-9505fd9ecf7a)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/25024dff-2af4-4bc4-b907-e15ab36d0039)
 <br><br/>
 **Connection between AWS and Azure using SIte-to-Site VPN**
 <br><br/>
