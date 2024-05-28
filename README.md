@@ -87,7 +87,24 @@ Add endpoint, username and password of MySQL RDS to the file login.jsp and userR
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/e664e1b4-5af3-4ab8-ad34-16ee7a2405ce)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/05daa593-e47d-4606-9b84-eddf14fe5565)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/e3ef3a7b-1047-42e5-9008-dafee107cc5e)
-
+<br><br/>
+**Prometheus and Grafana Configuration**
+<br><br/>
+Using Terraform Script Prometheus and Grafana has been installed and Prometheus is kept as a source for Grafana.
+<br><br/>
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/81346f68-6a80-49a4-8d22-b68505b97dc4)
+<br><br/>
+Dashboard has been imported using the ID **3119** as shown in the screenshot below
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/7ec41be4-b110-4f97-a890-7ae35502a166)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/43a98b56-bf29-4e20-8f83-dffbe8920a95)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/09575cdd-e4e6-4632-bd89-2c1b121a6841)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/0e48ae18-bc44-4dde-b454-64298715df7d)
+<br><br/>
+You can access the application as shown below
+<br><br/>
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/1797d1b1-0822-4e76-b7b5-de9cbc2ac705)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/8e3cac0f-5c7e-40c1-befe-10b7a82d75ce)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3f0dfca4-af74-42da-9c89-4e20ac841852)
 
 
 
