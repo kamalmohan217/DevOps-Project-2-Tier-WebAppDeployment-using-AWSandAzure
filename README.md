@@ -16,6 +16,29 @@ kubectl create secret docker-registry devopsmelacr132827a7-auth --docker-server=
 kubectl create secret tls ingress-secret --key mykey.key --cert STAR_singhritesh85_com.crt -n demo
 ```
 <br><br/>
+**Follow below steps to make your Azure DevOps Agent ready.**
+<br><br/>
+Install git2 
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/f4a4c238-924c-4d30-883c-d364d177aaaa)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/966f7f0f-54e3-4967-96a1-c782a32d73fd)
+Create a user demo and provide sudo privileges from sudoers file.
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/fc91bffa-9b8f-49b8-94ba-cf1a111ff178)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/e5f4de24-410a-44a8-aa5a-69c6179568d5)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/91d27281-d0d7-4781-a351-d1ba0bfa3fcb)
+Install Java-17
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/dd88df36-5ec1-411e-9922-1df81c6078dd)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3a5e14a5-344d-455b-82c3-26c58f21204d)
+Install maven
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/e6dcd6e9-0b2f-49b1-80a2-ba623b011641)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/9bba2d80-a8ff-48c7-83ec-448df1c36f9b)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3db44693-814e-42bd-813f-daf72551ce00)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/033440bd-dbbf-49f2-b109-a216433123de)
+<br><br/>
+Install Docker
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/48b55f93-a0f4-4f37-81e4-0e0e58582458)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/1b266eac-f173-4e0c-b07b-72c3b4c28d79)
+
+<br><br/>
 Create three service connections as shown in the screenshot below
 <br><br/>
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/631cf1dd-d06e-4128-a836-a95a5d157581)
