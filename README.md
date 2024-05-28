@@ -48,6 +48,10 @@ Install self hosted agent pool (You can create self hosted agent pool either at 
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/4f21b984-5f5a-4a56-8745-45f79190d590)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/77df105d-6f86-455e-a24b-5edb1e800431)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/b2fa72f1-b9ef-478a-ad2c-e43df2748050)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/5e209c12-6f24-4532-abaf-72d1e67c254d)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/7aef2609-ee9f-4ae7-b56a-dbb3fe060363)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/bb8a4840-9ead-44ea-9126-b3a7d7d059a4)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/af0a5c8a-0dd0-4d63-ae19-81b5a981aa69)
 
 <br><br/>
 Create three service connections as shown in the screenshot below
