@@ -52,6 +52,14 @@ Install self hosted agent pool (You can create self hosted agent pool either at 
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/7aef2609-ee9f-4ae7-b56a-dbb3fe060363)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/bb8a4840-9ead-44ea-9126-b3a7d7d059a4)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/af0a5c8a-0dd0-4d63-ae19-81b5a981aa69)
+<br><br/>
+Copy kubeconfig from Terraform-Server to Azure DevOps Self-Hosted Agent and Install kubectl and helm
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/c95869af-b779-42c3-a14b-3e7e3b280602)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/78d896be-35e5-4a17-a241-0d1d8a1eb8f2)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/01213bb2-c5d6-42e0-8eba-a1a8dc1b5fc4)
+<br><br/>
+Install trivy for Docker Image Scan
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/9685fe88-425a-42b2-b64c-82acb2ecdacc)
 
 <br><br/>
 Create three service connections as shown in the screenshot below
@@ -71,6 +79,8 @@ Adding below lines to pom.xml for storing Artifacts to Azure Artifactory
 <br><br/>
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/04384dea-8937-42d1-8e90-9a8ae0a611ef)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/15704438-2b62-4906-94ba-94ed4fa5052a)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3192ac04-9e89-4d5e-9e04-7e6c588d52f1)
+
 <br><br/>
 Add endpoint, username and password of MySQL RDS to the file login.jsp and userRegistration.jsp as shown in the screenshot below
 <br><br/>
