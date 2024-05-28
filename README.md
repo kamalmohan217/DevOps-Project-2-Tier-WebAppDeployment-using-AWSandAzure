@@ -105,6 +105,8 @@ You can access the application as shown below
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/1797d1b1-0822-4e76-b7b5-de9cbc2ac705)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/8e3cac0f-5c7e-40c1-befe-10b7a82d75ce)
 ![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/3f0dfca4-af74-42da-9c89-4e20ac841852)
+![image](https://github.com/kamalmohan217/DevOps-Project-2-Tier-WebAppDeployment-using-AWSandAzure/assets/128888356/5e151bad-b355-495f-81e9-9407ef754238)
+
 
 
 
